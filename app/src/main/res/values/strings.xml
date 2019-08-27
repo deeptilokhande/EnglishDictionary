@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnglishDictionary</string>
+    <string name="some_text">Some text</string>
+    <string name="defin">Definition</string>
+    <string name="string_def">Definition</string>
+    <string name="string_syno">Synonyms</string>
+    <string name="string_anto">Antonyms</string>
+    <string name="string_exam">Examples</string>
+</resources>
